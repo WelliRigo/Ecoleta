@@ -41,6 +41,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: Resultado:
 
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
+<div align="center">
+    <img alt="Layout" title="#logo" width="600px"  src="https://user-images.githubusercontent.com/23012528/193182035-16e2adba-1a43-425f-a286-3e4b2f383a55.jpg">
+</div>
+
 <br/>
 
 <a id="como-usar"></a>
